@@ -1,0 +1,8 @@
+{
+    "inputNameLabel": "Your Name",
+    "inputNamePlaceholder": "Please enter your name...",
+    "chooseLanguage": "Language",
+    "greeting": "Hello {name}! How are you today?",
+    "time": "Time: {xTime, time, short}",
+    "date": "Date: {xDate, date}"
+}

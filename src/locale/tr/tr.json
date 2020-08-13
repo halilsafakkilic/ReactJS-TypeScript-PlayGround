@@ -1,0 +1,8 @@
+{
+    "inputNameLabel": "Adınız",
+    "inputNamePlaceholder": "Lütfen adınızı yazınız...",
+    "chooseLanguage": "Dil",
+    "greeting": "Merhaba {name}! Bugün nasılsın?",
+    "time": "Saat: {xTime, time, short}",
+    "date": "Tarih: {xDate, date}"
+}

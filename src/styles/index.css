@@ -1,0 +1,27 @@
+h1,
+h2,
+h3 {
+    color: #292727;
+    text-align: center;
+}
+
+.theme-dark h1,
+.theme-dark h2,
+.theme-dark h3 {
+    color: #fff;
+}
+
+main {
+    color: #2e444e;
+    height: 100vh;
+}
+
+main.theme-dark {
+    background-color: #11181c;
+    color: #bfc8ce;
+}
+
+.theme-toggle {
+    cursor: pointer;
+    color: sienna !important;
+}
