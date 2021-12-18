@@ -7,9 +7,5 @@
     "plugins": [
         "@babel/proposal-class-properties",
         "@babel/proposal-object-rest-spread",
-        [ "react-intl", {
-            "messagesDir": "./build/messages",
-            "extractSourceLocation": true
-        }]
     ]
 }
